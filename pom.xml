@@ -84,7 +84,7 @@
 
 	<build>
 		<plugins>
-
+			<!--idea中使用github测试-->
 			<!--spring boot maven插件-->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
